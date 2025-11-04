@@ -1,0 +1,255 @@
+[
+  {
+    "program_track": "## Build Agentic AI Systems",
+    "program_brief": "",
+    "rtb_content": [
+      {
+        "rtb_title": "##### Build AI-Integrated or Embedded Applications, Not Just Demos",
+        "rtbs": [
+          "- Progressively build AI Agents and Agentic AI applications",
+          "- Create chatbots, RAG-based VAs, and autonomous agents",
+          "- Meet key quality and performance benchmarks"
+        ]
+      },
+      {
+        "rtb_title": "##### Bridge from Any Traditional Stack",
+        "rtbs": [
+          "- Ideal for Java, .NET, or JavaScript developers",
+          "- Start with essential Python and API skills",
+          "- Transition smoothly into Agentic AI application development"
+        ]
+      },
+      {
+        "rtb_title": "##### Prove Job-Readiness with a Portfolio of Work",
+        "rtbs": [
+          "- Solve 30+ hands-on tasks and 5 projects",
+          "- Complete a capstone demonstrating end-to-end AI skills",
+          "- Build a powerful, employer-ready 'show and tell' portfolio"
+        ]
+      },
+      {
+        "rtb_title": "##### Project-Based Learning",
+        "rtbs": [
+          "- Build skills through task-based assignments",
+          "- Demonstrate competencies in course-end projects",
+          "- Culminate with a capstone featuring feedback and viva"
+        ]
+      },
+      {
+        "rtb_title": "##### Learn to 'Build with AI' and 'Build using AI'",
+        "rtbs": [
+          "- Embed AI into applications to enhance capability",
+          "- Use AI tools to improve productivity and code quality",
+          "- Master both integration and utilization of AI"
+        ]
+      },
+      {
+        "rtb_title": "##### Upskill Without Pausing Your Career",
+        "rtbs": [
+          "- Flexible schedule for working professionals",
+          "- Complete the program in six months",
+          "- Balance learning with your current job"
+        ]
+      },
+      {
+        "rtb_title": "##### A Clear Pathway to a New Career",
+        "rtbs": [
+          "- Transition from Full-Stack to AI-Embedded Engineer",
+          "- Ideal for existing or aspiring FSE learners",
+          "- Become career-ready in AI-embedded development"
+        ]
+      }
+    ],
+    "project_content": {
+      "project_brief": "## Learners apply their AI engineering skills to build, test, and deploy intelligent systems that mirror real-world use cases — from conversational agents to multi-agent workflows. Each project reinforces practical design, development, and deployment experience with measurable outcomes.",
+      "projects": [
+        {
+          "type": "Course End Project",
+          "image_url": "assets/images/agnai/wellbeing_coach.png",
+          "header": "AI for Wellbeing",
+          "track": "AI-Embedded Applications",
+          "project_title": "Wellbeing Coach for Personalized 5-Minute Mental Booster",
+          "brief_description": "Build an AI-powered wellbeing coach that improves user mood.",
+          "detailed_description": "Design a mood-aware AI wellbeing coach that senses user mood and location, then recommends a 5-minute activity—like breathing, stretching, or journaling—to boost emotional wellness instantly.",
+          "technologies_used": [
+            "Python",
+            "FastAPI",
+            "LLM APIs",
+            "Prompt Engineering"
+          ],
+          "genai_generated_image": "",
+          "core_features": "Detect user mood and context,Recommend personalized micro-activities,Deploy API-based AI interaction,Track wellbeing engagement data"
+        },
+        {
+          "type": "Course End Project",
+          "image_url": "assets/images/agnai/code_qa.png",
+          "header": "AI Assistant for Developers",
+          "track": "AI Agents",
+          "project_title": "Team Coding Standards and Guidelines Q&A Agent",
+          "brief_description": "Build a no-code agent to answer coding guideline queries.",
+          "detailed_description": "Create an internal Q&A agent that helps developers follow team coding standards using a no-code AI platform. The agent retrieves answers and examples based on pre-defined rules and team guidelines.",
+          "technologies_used": [
+            "No-Code AI Platform",
+            "LLM APIs",
+            "Prompt Templates"
+          ],
+          "genai_generated_image": "",
+          "core_features": "Parse developer queries,Retrieve coding rules and examples,Respond with consistent guidance,Integrate into developer workflow"
+        },
+        {
+          "type": "Course End Project",
+          "image_url": "assets/images/agnai/trip_planner.png",
+          "header": "Conversational Agent Design",
+          "track": "AI Applications",
+          "project_title": "Trip Planner Agent",
+          "brief_description": "Design an AI agent for personalized travel itineraries.",
+          "detailed_description": "Develop an AI-powered trip planning agent that generates custom itineraries based on user preferences, optimizing routes, budgets, and activities through real-time AI-driven recommendations.",
+          "technologies_used": [
+            "FastAPI",
+            "LangChain",
+            "LLM APIs",
+            "React"
+          ],
+          "genai_generated_image": "",
+          "core_features": "Gather user inputs and preferences,Generate optimized travel plans,Integrate live data APIs,Provide interactive user interface"
+        },
+        {
+          "type": "Course End Project",
+          "image_url": "assets/images/agnai/job_agent.png",
+          "header": "Career AI Systems",
+          "track": "Agentic AI",
+          "project_title": "Personalized Job Placement Agent",
+          "brief_description": "Create an AI agent that recommends jobs and resume improvements.",
+          "detailed_description": "Build a conversational AI agent that collects user details or resume data, finds relevant live job openings, and suggests targeted resume and cover letter improvements using AI recommendations.",
+          "technologies_used": [
+            "LLM APIs",
+            "LangChain",
+            "FastAPI",
+            "Web Scraping"
+          ],
+          "genai_generated_image": "",
+          "core_features": "Parse resume or profile info,Fetch and analyze job listings,Generate resume and cover letter feedback,Deploy via conversational UI"
+        },
+        {
+          "type": "Course End Project",
+          "image_url": "assets/images/agnai/car_advisor.png",
+          "header": "RAG-Powered Applications",
+          "track": "AI Systems",
+          "project_title": "Car Advisor Agent",
+          "brief_description": "Develop an AI agent that answers customer car-related queries.",
+          "detailed_description": "Build an AI-powered car advisory agent that retrieves and presents details such as models, pricing, and availability using Retrieval-Augmented Generation (RAG) to ensure factual accuracy.",
+          "technologies_used": [
+            "LangChain",
+            "LlamaIndex",
+            "RAG",
+            "Azure/AWS"
+          ],
+          "genai_generated_image": "",
+          "core_features": "Query company database via RAG,Answer pricing and feature queries,Ensure context-aware responses,Deploy securely on cloud"
+        },
+        {
+          "type": "Course End Project",
+          "image_url": "assets/images/agnai/financial_advisor.png",
+          "header": "Conversational Finance AI",
+          "track": "AI Systems",
+          "project_title": "Financial Advisor Agent",
+          "brief_description": "Design an AI assistant for personalized investment advice.",
+          "detailed_description": "Develop a financial advisory AI that gathers user goals, risk preferences, and investment horizons, and uses RAG to provide tailored savings and investment recommendations.",
+          "technologies_used": [
+            "LangChain",
+            "GuardrailsAI",
+            "RAG",
+            "LLM APIs"
+          ],
+          "genai_generated_image": "",
+          "core_features": "Capture user goals and preferences,Retrieve and summarize financial data,Provide safe investment suggestions,Ensure responsible AI interaction"
+        },
+        {
+          "type": "Course End Project",
+          "image_url": "assets/images/agnai/multimodal_rag.png",
+          "header": "Multimodal AI Systems",
+          "track": "AI Integration",
+          "project_title": "Multi-Model RAG System for Internal FAQs",
+          "brief_description": "Develop a RAG system integrating text and image data.",
+          "detailed_description": "Create a multimodal retrieval-augmented system that uses both text and images to answer internal organizational FAQs, enhancing information access and operational efficiency.",
+          "technologies_used": [
+            "LangChain",
+            "LlamaIndex",
+            "Multimodal RAG",
+            "Vector Databases"
+          ],
+          "genai_generated_image": "",
+          "core_features": "Index text and image content,Perform hybrid retrieval and reranking,Generate accurate, multimodal answers,Secure internal knowledge access"
+        },
+        {
+          "type": "Course End Project",
+          "image_url": "assets/images/agnai/ticket_agent.png",
+          "header": "AI for Customer Support",
+          "track": "Agentic AI Systems",
+          "project_title": "Customer Ticket Resolution Assistant",
+          "brief_description": "Build a RAG-powered assistant for faster support ticket resolution.",
+          "detailed_description": "Develop a support agent that retrieves solutions from ticket histories, troubleshooting guides, and SQL logs using RAG to improve customer response time and quality.",
+          "technologies_used": [
+            "LangChain",
+            "SQL",
+            "RAG",
+            "LLM APIs"
+          ],
+          "genai_generated_image": "",
+          "core_features": "Ingest ticket and support data,Retrieve relevant troubleshooting content,Maintain customer data privacy,Automate tier-1 support"
+        },
+        {
+          "type": "Capstone Project",
+          "image_url": "assets/images/agnai/multi_agent_code.png",
+          "header": "Capstone Project",
+          "track": "Autonomous AI Systems",
+          "project_title": "Multi-Agent System for Code Review & Optimization",
+          "brief_description": "Develop Crew Agents to automate code review and feedback.",
+          "detailed_description": "Build a multi-agent workflow using CrewAI to review and optimize code. Agents evaluate code quality, detect issues, and propose targeted improvements in performance and structure.",
+          "technologies_used": [
+            "CrewAI",
+            "LangGraph",
+            "LangChain",
+            "FastAPI"
+          ],
+          "genai_generated_image": "",
+          "core_features": "Orchestrate multiple agents for code analysis,Automate code quality evaluation,Provide feedback and improvement suggestions,Integrate with CI/CD pipeline"
+        },
+        {
+          "type": "Capstone Project",
+          "image_url": "assets/images/agnai/multi_agent_support.png",
+          "header": "Capstone Project",
+          "track": "Autonomous AI Systems",
+          "project_title": "Multi-Agent Software Customer Support with Human in the Loop",
+          "brief_description": "Implement an agent hierarchy for support and escalation.",
+          "detailed_description": "Create a multi-agent support system with specialized roles—Support Specialist and QA—handling customer FAQs, while delegating complex queries to human operators for validation.",
+          "technologies_used": [
+            "CrewAI",
+            "LangGraph",
+            "GuardrailsAI",
+            "Azure/AWS"
+          ],
+          "genai_generated_image": "",
+          "core_features": "Design agent hierarchy for tiered support,Implement human-in-loop escalation,Ensure secure and traceable workflows,Automate routine support interactions"
+        },
+        {
+          "type": "Capstone Project",
+          "image_url": "assets/images/agnai/candidate_assessment.png",
+          "header": "Capstone Project",
+          "track": "Agentic AI Systems",
+          "project_title": "Agentic AI Candidate Assessment System",
+          "brief_description": "Develop multi-role agents to assess candidates collaboratively.",
+          "detailed_description": "Build an agentic system where AI roles such as Hiring Manager, SME, and Behavioral Analyst collaboratively conduct structured candidate assessments, generating detailed reports and insights.",
+          "technologies_used": [
+            "CrewAI",
+            "LangGraph",
+            "LangChain",
+            "LLM APIs"
+          ],
+          "genai_generated_image": "",
+          "core_features": "Assign specialized agent roles for evaluation,Coordinate multi-agent workflows,Generate candidate assessment reports,Ensure fairness and transparency"
+        }
+      ]
+    }
+  }
+]
