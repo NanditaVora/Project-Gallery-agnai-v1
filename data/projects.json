@@ -1,62 +1,70 @@
 [
   {
     "program_track": "## Build Agentic AI Systems",
-    "program_brief": "Designed for <span class='highlight-yellow'>Full-Stack and Software Engineers</span> to transition into <span class='highlight-yellow'>AI-Embedded and Agentic AI roles</span>.",
+    "program_brief": "<span class='highlight-yellow'>Already a developer?</span> Step into the Agentic world. <span class='highlight-yellow'>Embed AI. Build Agents. Lead Agentic AI.</span>",
     "rtb_content": [
       {
-        "rtb_title": "##### Build AI-Integrated or Embedded Applications, Not Just Demos",
+        "rtb_title": "##### Designed for Developers to 'Build with AI'",
         "rtbs": [
-          "- Progressively build AI Agents and Agentic AI applications",
-          "- Create chatbots, RAG-based VAs, and autonomous agents",
-          "- Meet key quality and performance benchmarks"
+          "- For engineers with Java, C#, or JS experience.",
+          "- Bridge on Python for AI-Embedded Applications.",
+          "- Build agents that act and run tasks independently."
         ]
       },
       {
-        "rtb_title": "##### Bridge from Any Traditional Stack",
+        "rtb_title": "##### Most Comprehensive Role-Based Program",
         "rtbs": [
-          "- Ideal for Java, .NET, or JavaScript developers",
-          "- Start with essential Python and API skills",
-          "- Transition smoothly into Agentic AI application development"
+          "- Designed around real RAG and Agent developer roles.",
+          "- Spend 60% or more doing hands-on work.",
+          "- Day 1 ready path: Connect LLMs → Embed AI → Build Agents → Agentic AI."
         ]
       },
       {
-        "rtb_title": "##### Prove Job-Readiness with a Portfolio of Work",
+        "rtb_title": "##### Modern Stack for Real-World AI Systems",
         "rtbs": [
-          "- Solve 30+ hands-on tasks and 5 projects",
-          "- Complete a capstone demonstrating end-to-end AI skills",
-          "- Build a powerful, employer-ready 'show and tell' portfolio"
+          "- Python, FastAPI, Pydantic, and OpenAPI for clean APIs.",
+          "- LangChain, LangGraph, CrewAI, and LlamaIndex for agents and RAG.",
+          "- LangFuse (or similar) for tracing and evaluations."
         ]
       },
       {
-        "rtb_title": "##### Project-Based Learning",
+        "rtb_title": "##### Embed-AI First. Agents Next.",
         "rtbs": [
-          "- Build skills through task-based assignments",
-          "- Demonstrate competencies in course-end projects",
-          "- Culminate with a capstone featuring feedback and viva"
+          "- Start by embedding AI into existing applications.",
+          "- Then build agentic workflows that plan, act, and self-check.",
+          "- Learn safe prompting, RAG grounding, and simple guardrails."
         ]
       },
       {
-        "rtb_title": "##### Learn to 'Build with AI' and 'Build using AI'",
+        "rtb_title": "##### Mentor-Led: Experienced & Hands-On",
         "rtbs": [
-          "- Embed AI into applications to enhance capability",
-          "- Use AI tools to improve productivity and code quality",
-          "- Master both integration and utilization of AI"
+          "- Live, online mentor-led sessions with self-paced practice.",
+          "- Interactive 'watch and repeat' demos.",
+          "- Mentors invested in your success."
         ]
       },
       {
-        "rtb_title": "##### Upskill Without Pausing Your Career",
+        "rtb_title": "##### Progressive and Project-Based",
         "rtbs": [
-          "- Flexible schedule for working professionals",
-          "- Complete the program in six months",
-          "- Balance learning with your current job"
+          "- Complete 80+ assignments, 4 projects, and a capstone.",
+          "- Build AI-powered APIs, chatbots, RAG systems, and agent workflows.",
+          "- Present results with logs, evaluations, and a simple runbook."
         ]
       },
       {
-        "rtb_title": "##### A Clear Pathway to a New Career",
+        "rtb_title": "##### Build a Strong Portfolio",
         "rtbs": [
-          "- Transition from Full-Stack to AI-Embedded Engineer",
-          "- Ideal for existing or aspiring FSE learners",
-          "- Become career-ready in AI-embedded development"
+          "- Ship small, usable AI features every sprint.",
+          "- Showcase: AI-embedded feature, RAG app, and agent workflow.",
+          "- Concise 'readme + demo' portfolio recruiters can review."
+        ]
+      },
+      {
+        "rtb_title": "##### Translate Learning into Opportunities",
+        "rtbs": [
+          "- Portfolio designed for recruiter review.",
+          "- 'Tell the story' prompts for each project.",
+          "- Map projects to real job roles: AI App Dev, GenAI Integrator, LLM Engineer."
         ]
       }
     ],

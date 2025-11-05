@@ -533,14 +533,13 @@ header .internal-note {
 
 /* Optional top image */
 .project-img {
-    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 90%;
     object-fit: contain;
     height: 250px;
-    /* margin:auto; */
-    margin: 15px auto;
     background-color: transparent;
-    /* border-radius: 50px; */
 }
 
 /* Badge/Track */
